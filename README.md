@@ -12,3 +12,4 @@ May Challenge - [https://leetcode.com/explore/featured/card/may-leetcoding-chall
 5. [First Unique Character in a String](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/FirstUniqueCharacterInAString.js)
 6. [Majority Element](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/MajorityElement.js)
 7. [Cousins in Binary Tree](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/CousinsInBinaryTree.js)
+8. [Check If It Is a Straight Line](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/CheckIfItIsAStraightLine.js)
