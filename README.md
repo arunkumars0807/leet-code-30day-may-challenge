@@ -14,3 +14,4 @@ May Challenge - [https://leetcode.com/explore/featured/card/may-leetcoding-chall
 7. [Cousins in Binary Tree](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/CousinsInBinaryTree.js)
 8. [Check If It Is a Straight Line](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/CheckIfItIsAStraightLine.js)
 9. [Valid Perfect Square](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/ValidPerfectSquare.js)
+10. [Find the Town Judge](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/FindTheTownJudge.js)
