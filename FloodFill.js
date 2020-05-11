@@ -6,16 +6,12 @@
  * @return {number[][]}
  */
 var floodFill = function(image, sr, sc, newColor) {
-    var result = dfs(image, sr, sc, image[sr][sc], newColor);
-    if (result === null) {
-        return image;
-    }
-    return result;
+    return dfs(image, sr, sc, image[sr][sc], newColor);
 };
 
 var dfs = function(arr, i, j, src, tgt) {
     if (i < 0 || j < 0 || i >= arr.length || j >= arr[i].length || arr[i][j] === tgt || arr[i][j] !== src) {
-        return null;
+        return arr;
     }
     
     arr[i][j] = tgt;
