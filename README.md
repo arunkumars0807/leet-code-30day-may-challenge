@@ -16,4 +16,5 @@ May Challenge - [https://leetcode.com/explore/featured/card/may-leetcoding-chall
 9. [Valid Perfect Square](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/ValidPerfectSquare.js)
 10. [Find the Town Judge](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/FindTheTownJudge.js)
 11. [Flood Fill](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/FloodFill.js)
+12. [Single Element in a Sorted Array](https://github.com/arunkumars0807/leet-code-may-challenge/blob/master/SingleElementInASortedArray.js)
 
